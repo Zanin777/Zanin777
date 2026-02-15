@@ -2,7 +2,7 @@
 
 <!--
 **Zanin777/Zanin777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ac0rt267jsvvt5i14yqsbszp5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
