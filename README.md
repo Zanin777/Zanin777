@@ -20,9 +20,9 @@
  ---
 
 
----
+
 
 <!-- GIF -->
-![download (7)](https://github.com/user-attachments/assets/989ae5aa-116e-4fa7-a260-4c18eac64738)
+<img width="700" height="550" alt="(5) Tumblr" src="https://github.com/user-attachments/assets/59d6472a-8cec-45bf-976b-89a35865183a">
 
-
+---
