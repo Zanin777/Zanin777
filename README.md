@@ -26,6 +26,6 @@
 
 
 <!-- GIF -->
-<img width="700" height="550" alt="(5) Tumblr" src="https://github.com/user-attachments/assets/59d6472a-8cec-45bf-976b-89a35865183a">
+<img width="700" height="550" alt="(5) Tumblr" src=https://github.com/user-attachments/assets/df42c3d0-deac-414d-aec8-dad09cc3300e">
 
 ---
