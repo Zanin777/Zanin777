@@ -23,6 +23,15 @@
 
 ---
 
-<img width="700" height="550" alt="handsma" src="https://github.com/user-attachments/assets/df42c3d0-deac-414d-aec8-dad09cc3300e" />
+<!-- GIF -->
+
+<p align="center">
+  <img
+    width="700"
+    alt="Animação do perfil"
+    src="https://github.com/user-attachments/assets/df42c3d0-deac-414d-aec8-dad09cc3300e"
+  />
+</p>
 
 ---
+
