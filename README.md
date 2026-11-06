@@ -3,17 +3,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6f5c,100:2bbc8a&height=180&section=header&text=Matheus%20Zanin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20Game%20Maker&descAlignY=60&descSize=16" alt="Banner Matheus Zanin" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Zanin777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2BBC8A&center=true&vCenter=true&width=520&lines=Ol%C3%A1!+Eu+sou+o+Matheus+%F0%9F%91%8B;Desenvolvedor+Java+%2F+JavaScript+%E2%98%95;Apaixonado+por+back-end+e+bancos+de+dados+%F0%9F%97%84%EF%B8%8F;Criando+jogos+no+navegador+nas+horas+vagas+%F0%9F%8E%AE" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://zanin777.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2bbc8a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Zanin777&label=Visitas&color=2bbc8a&style=for-the-badge" alt="Visitas ao perfil" />
-</p>
-
 ---
 
 <p align="center">
