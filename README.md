@@ -16,28 +16,9 @@
 
 ---
 
-## Sobre mim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="Aceno" />
-
-<img align="right" width="360" src="assets/himmel.gif" alt="Himmel, o herói" />
-
-- 🔭 Desenvolvendo projetos que misturam **back-end**, **dados** e **jogos**
-- 🌱 Estudando modelagem de dados, APIs e arquitetura de software
-- 🎸 Unindo programação e música no **RiffForge**
-- 🎮 Criando jogos no navegador com Canvas + Vanilla JS
-- 💬 Pode me chamar para falar de Java, SQL, game dev ou riffs em Drop B
-- ⚡ Combustível oficial: ☕ café
-
-<br clear="right" />
-
-```java
-public class Matheus {
-    String foco       = "Back-end & Banco de Dados";
-    String[] stack    = {"Java", "JavaScript", "TypeScript", "Python", "SQL"};
-    String hobby      = "Criar jogos no navegador com Canvas + Vanilla JS";
-    String aprendendo = "Arquitetura de APIs, testes e boas práticas";
-    String cafe       = "☕ sempre";
-}
-```
+<p align="center">
+  <img width="100%" src="assets/himmel.gif" alt="Himmel, o herói" />
+</p>
 
 ---
 
