@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6f5c,100:2bbc8a&height=180&section=header&text=Matheus%20Zanin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20Game%20Maker&descAlignY=60&descSize=16" alt="Banner Matheus Zanin" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172B45,50:294D73,100:527FAF&height=180&section=header&text=Matheus%20Zanin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20Game%20Maker&descAlignY=60&descSize=16" alt="Banner Matheus Zanin" />
 </p>
 
 ---
