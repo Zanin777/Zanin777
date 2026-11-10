@@ -81,5 +81,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,50:1f6f5c,100:0d1117&height=110&section=footer" alt="Rodapé" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172B45,50:294D73,100:527FAF&height=110&section=footer" alt="Rodapé" />
 </p>
